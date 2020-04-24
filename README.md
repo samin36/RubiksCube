@@ -3,7 +3,7 @@ RubixCube Simulation made in Processing.
 - Works for any n-dimension cube.
 - You can program it to execute a sequence of moves as in the gifs below.
 - You can move the 6 faces plus the middle layer manually:
-    - Note that lowercase letters denote CCW (counter-clockwise) rotation and uppercase denote CW (clockwise) rotation.
+    - Note that lowercase letters denote CCW (counter-clockwise) rotation and uppercase denote CW (clockwise) rotation.<br/>
     -> Top: 'T' or 't'<br/>
     -> Down: 'D' or 'd'<br/>
     -> Left: 'L' or 'l'<br/>
