@@ -1,5 +1,5 @@
 # Rubik's Cube
-RubixCube Simulation made in Processing.
+Rubik's Cube Simulation made in Processing.
 - Works for any n-dimension cube.
 - You can program it to execute a sequence of moves as in the gifs below.
 - You can move the 6 faces plus the middle layer manually:
