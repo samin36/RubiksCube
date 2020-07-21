@@ -1,4 +1,4 @@
-# RubixCube
+# Rubik's Cube
 RubixCube Simulation made in Processing.
 - Works for any n-dimension cube.
 - You can program it to execute a sequence of moves as in the gifs below.
